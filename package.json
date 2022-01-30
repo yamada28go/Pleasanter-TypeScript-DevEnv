@@ -6,7 +6,7 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "build": "webpack -w --config webpack.dev.config",
-    "release": "webpack -w --config webpack.pro.config",
+    "release": "webpack --config webpack.pro.config",
     "format": "prettier --write 'src/**/*.ts'"
   },
   "keywords": [],
