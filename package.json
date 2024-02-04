@@ -13,6 +13,7 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/pleasanter-web-script": "^0.1.0",
     "html-webpack-plugin": "^5.5.0",
     "prettier": "^2.5.1",
     "ts-loader": "^9.2.6",
